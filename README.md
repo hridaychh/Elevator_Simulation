@@ -1,0 +1,3 @@
+- Developed a Python-based elevator simulation system utilizing object-oriented programming to model elevator operations within a multi-floor building.
+- Implemented algorithms for efficient elevator movement and passenger management to optimize wait times and capacity handling.
+- Employed Pygame for dynamic visualization of elevator and passenger movements, enhancing the interactive experience of the simulation.
